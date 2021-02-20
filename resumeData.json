@@ -1,0 +1,108 @@
+{
+  "main": {
+    "name": "Arun Teja",
+    "occupation": "Student",
+    "description": "I eat, sleep and breathe React",
+    "image": "mypic.jpg",
+    "bio": "Hi there! I am arun. I've been coding for over year. As my abmition to become Full Stack developer, i am struggling day and night and doing hard work to reach my goal. one day, i got to find the frame work called react js , this frame work  changed my abilities and enhance my skills.literally, i felt in love with react js.Along with react, i got to know backend frameworks like Node js, Express Js and No-sql Databases like MongoDb and their functionality. ",
+    "contactmessage": "Get in touch with me through social media !",
+    "email": "bommerlaarunteja@gmail.com",
+    "phone": "+91 7702392585",
+    "address": {
+      "street": "Vivek-nagar,chikkadapally",
+      "city": "hyderabad",
+      "state": "telangana",
+      "zip": "500020"
+    },
+    
+    
+    "social": [
+      
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/bommerla.arun/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/aru%C3%B1-t%C3%A8j%C3%A5-9317901a9/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/b_a_tx/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/arunteja98",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "bharat institue of engineering and tech",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "june 2020",
+        "description": "Graduated with aggregate 0f 65%"
+      }
+    ],
+    "projects": [
+      {
+        "title": "NetFlix-clone (React JS)",
+        "description":"using react js &firebase"
+        
+        
+        
+      },
+      {
+        "title": "Gmail Clone (React JS)",
+        "description":"using react-js & firebase"
+        
+        
+      },
+      {
+        "title": "Whatsapp Clone (React JS)",
+        "description":"using MERN"
+        
+        
+        
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "75%"
+      }
+    ]
+  },
+  
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Every one should know how to program a computer, because it teaches you how to think",
+        "user": "Steve Jobs"
+      },
+      {
+        "text": "Program a computer is a lot more easier than maintain girl friend",
+        "user": "My-Self"
+      }
+    ]
+  }
+}
